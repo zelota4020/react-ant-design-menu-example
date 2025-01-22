@@ -5,7 +5,9 @@ Simple Ant Design menu example.
 ### Creating
 
 `npm create vite@latest` (react - typescript)
+
 `npm i react-router-dom react-toastify antd react-icons`
+
 `npm install`
 
 ### How it starts
